@@ -1,0 +1,6 @@
+data:
+- fmt: Ma{aspin}_i{inc}_w{win}.h5
+  encoding: null
+remote:
+  name: Cyverse
+  url: https://data.cyverse.org/dav-anon/iplant/home/rm1771/eht_output/
